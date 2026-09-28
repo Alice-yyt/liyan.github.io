@@ -92,4 +92,4 @@ My research focuses on post-training, especially personalized preference alignme
 
 I previously obtained my Master’s degree from Southeast University and my undergraduate degree from Xidian University.
 
-In my free time, I enjoy painting in the Western style (watercolor and charcoal drawing) and playing Chinese chess. You can check out my [portfolio](/portfolio/). If you’re also interested in chess, feel free to challenge me to a game!
+In my free time, I enjoy painting in the Western style (watercolor and charcoal drawing) and playing Chinese chess. You can check out my [portfolio]({{ '/portfolio/' | relative_url }}). If you’re also interested in chess, feel free to challenge me to a game!
