@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liyan.github.io/sitemap.xml
+Sitemap: https://alice-yyt.github.io/liyan.github.io/sitemap.xml
