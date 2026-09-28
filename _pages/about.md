@@ -88,7 +88,7 @@ latest_posts:
 
 Hi! I’m Liyan. I’m a fourth-year Ph.D. candidate at CityU DS, advised by [Prof. Kaidi Xu](https://kaidixu.com/).
 
-My research focuses on post-training, especially personalized preference alignment.
+My research focuses on post-training for LLMs, especially personalized preference alignment.
 
 I previously obtained my Master’s degree from Southeast University and my undergraduate degree from Xidian University.
 
