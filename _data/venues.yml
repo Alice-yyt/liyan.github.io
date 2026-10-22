@@ -8,3 +8,7 @@
 "TNSM":
   url: https://www.comsoc.org/publications/journals/ieee-tnsm
   color: "#00369f"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
